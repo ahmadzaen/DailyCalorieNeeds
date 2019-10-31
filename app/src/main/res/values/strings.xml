@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daily Calorie Needs</string>
+    <string name="intro">Perhitungan kebutuhan kalori harian berdasarkan rumus dari Mifflin – St. Jeor</string>
+</resources>
